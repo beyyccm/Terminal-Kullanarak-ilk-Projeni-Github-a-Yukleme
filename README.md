@@ -1,4 +1,4 @@
-# 📌 Patika.dev React Bootcamp -- Hafta 1 Terminal ile Git & GitHub Ödevi
+# 📌Hafta 1 Terminal ile Git & GitHub Ödevi
 
 Bu proje, Patika.dev React Bootcamp Week-1 kapsamında verilen
 **"Terminal Kullanarak İlk Projeni GitHub'a Yükle"** ödevi için
